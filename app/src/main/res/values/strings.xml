@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mosam Ki Soort-e-Haal</string>
+    <string name="cityName">Lahore</string>
+    <string name="date">Wednessday, 10 Feb</string>
+    <string name="wheatherNow">Rain Showers</string>
+    <string name="wheather_degree">26°</string>
+    <string name="timeNow">12:30 PM</string>
+    <string name="main_wheather_icon_content_description">main wheather icon</string>
+    <string name="humidityPercentage">51%</string>
+    <string name="pressureLevelNow">1003 hPa</string>
+    <string name="windSpeed">8.8 m/s</string>
+
+    <string name="day_FirstNext">Thu</string>
+    <string name="temp_FirstNextDay">34°</string>
+    <string name="mainWheather_FirstNextDay">Cool Breeze</string>
+    <string name="date_FirstNextDay">20, May</string>
+    <string name="day_SecondNext">Fri</string>
+    <string name="temp_SecondNextDay">33°</string>
+    <string name="mainWheather_SecondNextDay">Cool Breeze</string>
+    <string name="date_SecondNextDay">21, May</string>
+    <string name="day_ThirdNext">Sat</string>
+    <string name="temp_ThirdNextDay">32°</string>
+    <string name="mainWheather_ThirdNextDay">Cool Breeze</string>
+    <string name="date_ThirdNextDay">22, May</string>
+    <string name="day_FourthNext">Sun</string>
+    <string name="temp_FourthNextDay">31°</string>
+    <string name="mainWheather_FourthNextDay">Cool Breeze</string>
+    <string name="date_FourthNextDay">23, May</string>
+    <string name="day_FifthNext">Mon</string>
+    <string name="temp_FifthNextDay">30°</string>
+    <string name="mainWheather_FifthNextDay">Cool Breeze</string>
+    <string name="date_FifthNextDay">24, May</string>
+    <string name="day_SixthNext">Wed</string>
+    <string name="temp_SixthNextDay">29°</string>
+    <string name="mainWheather_SixthNextDay">Cool Breeze</string>
+    <string name="date_SixthNextDay">25, May</string>
+    <string name="day_SeventhNext">Thu</string>
+    <string name="temp_SeventhNextDay">28°</string>
+    <string name="mainWheather_SeventhNextDay">Cool Breeze</string>
+    <string name="date_SeventhNextDay">26, May</string>
+</resources>
